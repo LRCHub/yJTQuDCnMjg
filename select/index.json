@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "じん / ロスタイムメモリー (IA)【OFFICIAL MUSIC VIDEO】",
+  "base_artist": "じん",
+  "createdAt": "2025-12-20T16:17:21.673581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "daze (Originally Performed by じん feat.メイリア from GARNiDELiA 「メカクシティアクターズ」より)",
+      "artist": "オルゴール ミドリ",
+      "has_synced": false,
+      "path": "select/01_daze_(Originally_Performed_by_じん_feat.メイリア_from_GARNiDELiA_「メカクシティアクターズ」より)_オルゴール_ミドリ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カゲロウデイズ じん",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/02_カゲロウデイズ_じん_初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人造エネミー",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_人造エネミー_じん.txt"
+    }
+  ]
+}
